@@ -10,7 +10,7 @@ class Matrix:
 
 
 def read_file():
-    inputfile = open("/home/imre/PycharmProjects/googlecodejam/lawnmower/B-small-practice.in", "r")
+    inputfile = open("./B-small-practice.in", "r")
 
     number_of_matrices = int(inputfile.readline())
 

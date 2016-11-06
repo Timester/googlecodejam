@@ -98,5 +98,5 @@ def read_input(filepath):
 
 
 initkeys()
-read_input("/home/imre/PycharmProjects/googlecodejam/phonekeys/C-large-practice.in")
+read_input("./C-small-practice.in")
 translate_all()

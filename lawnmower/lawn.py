@@ -51,6 +51,6 @@ def checkmatrices():
             else:
                 write_case(fo, i + 1, "NO")
 
-readinput("B-small-practice.in")
+readinput("./B-small-practice.in")
 
 checkmatrices()

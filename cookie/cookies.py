@@ -56,5 +56,5 @@ def write_case(f, i, res):
     f.write('%s' % res)
     f.write('\n')
 
-readinput("/home/imre/PycharmProjects/googlecodejam/tiny")
+readinput("./B-small-practice.in")
 computecases()
